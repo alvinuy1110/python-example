@@ -28,8 +28,22 @@ cd <project root>
 python -m unittest tests.test_my_sum
 ```
 
+# Linting
+
+using flake8
+
+## install  
+
+```
+pip install flake8
+```
+
+## usage
+
+flake8 <code directory/ file name>
 
 # Reference 
 
-unittest - https://docs.python.org/3.4/library/unittest.html
-
+* unittest - https://docs.python.org/3.4/library/unittest.html
+* https://realpython.com/python-testing/
+* https://realpython.com/python-code-quality/
