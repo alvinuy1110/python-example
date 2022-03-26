@@ -1,4 +1,10 @@
 
+# Structuring Project
+
+https://docs.python-guide.org/writing/structure/
+## MultiModule
+* ensure each module has "__init__.py"
+
 # Generate PIP requirements
 
 ```
